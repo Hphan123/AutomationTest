@@ -1,4 +1,4 @@
-Answer of question 1, 2, 3 is output by running class Program in in each respective package.
+Answer of question 1, 2, 3 is output by running class Program in each respective package.
 
 3) The order of outputs in 2 and 1 different because
      + The output 1: Refer to executing an entire proceses from beginning to end
