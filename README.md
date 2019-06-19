@@ -5,3 +5,4 @@ Answer of question 1, 2, 3 is output by running class Program in each respective
      + The output 2: Refer to allowing multuple threads within a proceses such that they excute concurrently, independently but share their resources.
 
 	In the output2, there is no guarantee that a thread runs immediately after it starts and we don't know which thread is running at which moment in time. So, if i make sure that thread1 is terminated before thread2 is executed (using join() method ), i can make sure that the question 2 will produce the order just like question 1.
+dasdass
